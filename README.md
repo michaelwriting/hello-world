@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 Technical writer with a degree in information science and technology.
 
